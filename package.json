@@ -1,0 +1,46 @@
+{
+  "name": "React-Social-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-reporting-protobuf": "^3.0.0",
+    "apollo-server": "^3.1.1",
+    "bcryptjs": "^2.4.3",
+    "etag": "^1.8.1",
+    "fast-json-stable-stringify": "^2.1.0",
+    "forwarded": "^0.2.0",
+    "fresh": "^0.5.2",
+    "graphql": "^15.5.1",
+    "graphql-playground": "^1.3.17",
+    "inherits": "^2.0.4",
+    "ipaddr.js": "^1.9.1",
+    "isarray": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash.sortby": "^4.7.0",
+    "loglevel": "^1.7.1",
+    "long": "^4.0.0",
+    "media-typer": "^0.3.0",
+    "memory-pager": "^1.5.0",
+    "mongoose": "^5.13.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "serve": "node index",
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoybaby/React-Social-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoybaby/React-Social-App/issues"
+  },
+  "homepage": "https://github.com/Hoybaby/React-Social-App#readme"
+}

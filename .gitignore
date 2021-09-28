@@ -1,0 +1,5 @@
+node_modules
+config.js
+.env
+
+# the config.js contains code that will be connecting to the mongoDB database at hand and a secret key.
